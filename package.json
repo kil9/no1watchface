@@ -1,0 +1,25 @@
+{
+    "author": "kimkkiruk",
+    "dependencies": {},
+    "keywords": [],
+    "name": "world-no.1-watch",
+    "pebble": {
+        "displayName": "watch for world no.1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "3351b9a3-9a2e-4eae-8c8d-bf666d5b30c7",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
